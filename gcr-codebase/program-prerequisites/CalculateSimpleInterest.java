@@ -7,7 +7,6 @@ public class CalculateSimpleInterest{
 		int principal = kb.nextInt();
 		double rate = kb.nextDouble();
 		double time = kb.nextDouble();
-		
 		double simpleInterest= (principal*rate*time)/100;
 		System.out.println(simpleInterest);
 	}
