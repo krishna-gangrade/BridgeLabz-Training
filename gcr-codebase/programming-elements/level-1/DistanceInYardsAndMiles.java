@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class DistanceInYardsAndMiles{
-    public static void main(System.in){
+    public static void main(String args[]){
     
 	    Scanner kb= new Scanner(System.in);
 	
