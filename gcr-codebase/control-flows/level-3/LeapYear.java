@@ -11,7 +11,7 @@ public class LeapYear{
 		//LeapYear program only works for year >= 1582
 		if(year>=1582){
 		
-			
+			//multiple if else statements
 			if(year%400==0){
 				System.out.println(Year+" is a leap Year");
 			}
@@ -25,6 +25,7 @@ public class LeapYear{
 				System.out.println(Year+" is not a leap Year");
 			}
 			
+			//Condition using logical and && and or || operators
 			if((year%4==0 && year%100!=0) ||(year%400==0)){
 				System.out.println(Year+" is a leap Year");
 			}
