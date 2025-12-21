@@ -7,7 +7,7 @@ public class NumberAnalysis {
         return number >= 0;
     }
 
-    //Method to check whether a number is even or odd.
+    //Method to check whether a number is even or odd. 
     public static boolean isEven(int number) {
         return number % 2 == 0;
     }
