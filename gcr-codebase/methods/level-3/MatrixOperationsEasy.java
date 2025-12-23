@@ -1,4 +1,4 @@
-//Created class for basic matrix operations
+ //Created class for basic matrix operations
 
 import java.util.*;
 public class MatrixOperationsEasy{
@@ -30,7 +30,7 @@ public class MatrixOperationsEasy{
     }
 
     public static double[][] inverse2x2(double[][] m){
-        double det=determinant2x2(m);
+        double det=determinant2x2(m);  
         double[][] inv=new double[2][2];
 
         inv[0][0] = m[1][1]/det;
