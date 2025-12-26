@@ -27,6 +27,17 @@
 -  Successfully pushed initial files to GitHub repository.  
 
 🔗 **Code Link:**  
-[👉 Day 1 - Core Java Practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/core-java-practice)
+[👉 Day 1 - Core Java Practice](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice)
+
+---
+
+###  Day 2 – Git Practice & Basic Java Programs 
+(**Date:** 17-Dec-2025) 
+- Practiced Git workflow to understand commits and version control.
+- Solved basic Java programs to understand syntax and structure.
+- Practice adding, commiting, and pushing Java files to Github.
+
+🔗 **Code Link:**  
+[👉 Day 2 - Program Prequisites](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
 ---
