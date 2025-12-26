@@ -83,8 +83,23 @@
 
 ---
 
- ### Day 6 – Java Strings and Exception Handling
-(**Date:** 22-Dec-2025) - Learned the concept of Strings in Java and their immutability
+## Week 2 – Java Programming Fundamentals (Continued)
+
+---
+
+### Day 6 – Java Methods
+(**Date:** 22-Dec-2025) 
+- Learned Java methods to organize code into reusable and modular blocks with proper method structure
+- Practiced user-defined methods, method calling, parameters, return values, and static methods
+- Implemented recursive methods and solved real-world problems using method-based logic
+- Explored Java Standard Library methods including `Math` and `Random` for mathematical and utility operations
+- Applied best programming practices by writing clean, readable, and well-structured Java programs
+
+🔗 **Code Link:**  
+👉 [Day 6 – Java Methods](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+ ### Day 7 – Java Strings and Exception Handling
+(**Date:** 23-Dec-2025) - Learned the concept of Strings in Java and their immutability
 - Practiced String creation, comparison, and commonly used String methods
 - Understood the difference between `String`, `StringBuilder`, and `StringBuffer`
 - Studied exception handling concepts using `try`, `catch`, `finally`, and `throw`
@@ -92,12 +107,12 @@
 - Commited and pushed solutions to the remote repository.
 
 🔗 **Code Link:**  
-[👉 Day 6 – Java Strings](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+[👉 Day 7 – Java Strings](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
 
-### Day 7 – Extras
-(**Date:** 23-Dec-2025) 
+### Day 8 – Extras
+(**Date:** 24-Dec-2025) 
 - Revised and practiced commonly used String methods such as `length()`, `charAt()`, `substring()`, `split()`, and `equals()`
 - Introduced built-in utility classes like `Random` and `Math` for generating random values and performing mathematical operations
 - Learned the importance of date and time handling in real-world applications such as scheduling and displaying current dates
@@ -106,6 +121,19 @@
 - Learned best practices for organizing code using multiple methods to improve readability, reusability, and maintainability
 
 🔗 **Code Link:**  
-[👉 Day 7 – Extras](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+[👉 Day 8 – Extras](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
+
+### Day 8 – LeetCode & Scenario-Based Questions  
+**Date:** 24-Dec-2025
+
+- Practiced problem-solving skills by solving Arrays Questions on LeetCode.
+- Focused on improving logical thinking and algorithmic approach.
+- Solved scenario-based Java problems to apply concepts in real-world situations.
+- Strengthened understanding of control flow, arrays, strings, and methods through practice.
+- Improved coding efficiency and problem-solving confidence.
+
+🔗 **Code Link:**  
+👉 [Day 8 – LeetCode Questions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+👉 [Day 8 – Scenario-based Questions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebased)
