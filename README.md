@@ -95,3 +95,17 @@
 [👉 Day 6 – Java Strings](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
+
+### Day 7 – Extras
+(**Date:** 23-Dec-2025) 
+- Revised and practiced commonly used String methods such as `length()`, `charAt()`, `substring()`, `split()`, and `equals()`
+- Introduced built-in utility classes like `Random` and `Math` for generating random values and performing mathematical operations
+- Learned the importance of date and time handling in real-world applications such as scheduling and displaying current dates
+- Studied Java Date and Time APIs and understood the improvements introduced from Java 8 onwards
+- Practiced using built-in classes to manage date and time effectively in Java programs
+- Learned best practices for organizing code using multiple methods to improve readability, reusability, and maintainability
+
+🔗 **Code Link:**  
+[👉 Day 7 – Extras](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
