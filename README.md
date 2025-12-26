@@ -69,3 +69,17 @@
 [👉 Day 4 – Control Flow](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
+
+### Day 5 – Java Arrays 
+(**Date:** 20-Dec-2025) 
+- Learned the concept of arrays in Java and their importance in storing multiple values.
+- Understood array declaration, initialization, and traversal.
+- Explored array operations such as accessing elements and updating values.
+- Solved Java programs based on array manipulation and real-world scenarios.
+- Commited and pushed solutions to the remote repository.
+  
+🔗 **Code Link:**  
+[👉 Day 5 – Java Arrays](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+---
+ 
