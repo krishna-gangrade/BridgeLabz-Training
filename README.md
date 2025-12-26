@@ -55,3 +55,17 @@
 [👉 Day 3 - Programming Elements](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
+
+### Day 4 - Java Control Flows
+(**Date:** 19-Dec-2025)
+- Studied control flows statements in Java to manage program execution.
+- Learned decision-making statements such as `if`, `if-else`, `else-if`, and `switch`.
+- Practiced looping constructs including `for`, `while`, and `do-while`.
+- Understood the use of `break` and `continue` for controlling loops.
+- Solved Java programs based on real-world scenarios using control flow logic.
+- Commited and pushed solutions to the remote repository.
+
+🔗 **Code Link:**  
+[👉 Day 4 – Control Flow](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+
+---
