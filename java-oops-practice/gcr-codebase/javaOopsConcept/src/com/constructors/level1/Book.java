@@ -1,4 +1,4 @@
-package com.constructorandaccessmodifier.level1;
+package com.constructors.level1;
 
 public class Book {
 
