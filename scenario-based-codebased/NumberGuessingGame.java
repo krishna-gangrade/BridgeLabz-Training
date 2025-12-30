@@ -8,6 +8,7 @@ Core Java Scenario Based Problem Statements
 ● Count attempts and exit after 5 wrong tries.
 
 */
+
 import java.util.Scanner;
 
 public class NumberGuessingGame{
@@ -40,7 +41,3 @@ public class NumberGuessingGame{
 		}
 	}
 }
-
-
-		
-		 
