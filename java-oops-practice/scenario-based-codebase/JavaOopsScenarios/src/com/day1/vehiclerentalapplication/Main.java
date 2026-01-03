@@ -33,7 +33,7 @@ public class Main {
 
         System.out.println("Customer: " + customer.getName());
 
-        System.out.println("Bike Rent for " + days + " days: ₹" + bike.calculateRent(days));
+        System.out.println("Bike Rent "+ "for " + days + " days: ₹" + bike.calculateRent(days));
         System.out.println("Car Rent for " + days + " days: ₹" + car.calculateRent(days));
         System.out.println("Truck Rent for " + days + " days: ₹" + truck.calculateRent(days));
     }
