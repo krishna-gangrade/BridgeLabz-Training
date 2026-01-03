@@ -1,4 +1,6 @@
-/.metadata/
+.metadata/
+.project
+.classpath
 
 # Eclipse specific files
 
@@ -13,7 +15,7 @@ javaOopsConcept/.project
 javaOopsConcept/bin/
 
 javaOopsConcept/target/
-
+ 	
 # Logs
 
 *.log
@@ -23,3 +25,4 @@ javaOopsConcept/target/
 .DS_Store
 
 Thumbs.db
+.gitignore
