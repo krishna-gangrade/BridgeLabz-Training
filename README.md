@@ -41,6 +41,21 @@ BridgeLabz-Training/
 - 🔗 **Code Link:**  
 👉 [LinkedLists](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
 
+
+### 🗓 Day 16 – Stacks, Queues, HashMap & Hash Functions
+**(Date: 02-Jan-2026)**
+
+- Studied `Stack` (LIFO) and `Queue` (FIFO) concepts.
+- Learned basic operations: `push`, `pop`, `peek`, `offer`, `poll`.
+- Implemented stack problems and queue problems.
+- Studied HashMap and hashing basics (`put`, `get`, collisions).
+- Implemented HashMap and hash function concepts.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Stack and Queues](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
+👉 [HashMap and Hash Functions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
+
+
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
