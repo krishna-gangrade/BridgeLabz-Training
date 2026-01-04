@@ -18,6 +18,29 @@ BridgeLabz-Training/
 - Studied basics of Data Structures & Algorithms (DSA).
 - Learned why DSA is used in modern applications.
 
+### 🗓 Day 15 – Linked List
+**(Date: 02-Jan-2026)**
+
+- Studied Linked List and its basic concept
+  - `Node structure` (data + next reference)
+  - `Dynamic memory` allocation
+- Types of Linked Lists:
+  - `Singly` Linked List
+  - `Doubly` Linked List
+  - `Circular` Linked List
+- Operations performed on Linked List:
+  - `Insertion` (beginning, end, position)
+  - `Deletion` (by value / position)
+  - `Traversal`
+  - `Searching elements`
+- Advantages and limitations of Linked List
+  - Dynamic size
+  - No direct access, sequential traversal
+- Implemented Linked List programs in Java
+- Committed and pushed all work
+- 🔗 **Code Link:**  
+👉 [LinkedLists](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
+
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
