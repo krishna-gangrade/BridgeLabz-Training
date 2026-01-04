@@ -32,3 +32,17 @@ BridgeLabz-Training/
 👉 [Day 10 – Introduction to OOP: Class and Object](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/classandobject)
 
 ---
+
+### 🗓 Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts 
+**(Date: 27-Dec-2025)**
+
+- Learned the concept of **constructors in Java** and their role in object initialization.
+- Understood **default, parameterized, and copy constructors** with practical examples.
+- Studied **access modifiers** and how they control visibility of variables and methods.
+- Differentiated between **instance variables/methods** and **class (`static`) variables/methods**.
+- Applied the concepts through hands-on programs and committed all work.
+
+🔗 **Code Link:**  
+👉 [Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts ](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/constructors/level1)
+
+---
