@@ -60,6 +60,7 @@ BridgeLabz-Training/
 👉 [Day 12 – Java Keywords & Operators](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inbuiltfunction)
 
 ---
+
 ### 🗓 Day 13 – Object Modeling & Real-World Design  
 **(Date: 30-Dec-2025)**
 - Studied classes and objects and object modeling:
@@ -74,5 +75,26 @@ BridgeLabz-Training/
 - Committed and pushed all work.
 - 🔗 **Code Link:**
 👉 [Day 13 - Object Modelling and Relations](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/objectmodelling)
+
+---
+
+### 🗓 Day 14 – Java Inheritance and Types
+**(Date: 31-Dec-2025)**
+- Studied inheritance and its types:
+  - Single level inheritance
+  - Multilevel inheritance
+  - Hierarchical inheritance
+  - Hybrid inheritance
+- Method Overriding and `@Override`
+- Constructor inheritance `super()` 
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+  - `public`
+  - `protected`
+  - Default (no modifier)
+  - `private`
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Inheritance and Types](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inheritance)
 
 ---
