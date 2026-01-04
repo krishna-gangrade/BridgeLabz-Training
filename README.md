@@ -46,3 +46,17 @@ BridgeLabz-Training/
 👉 [Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts ](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/constructors/level1)
 
 ---
+
+### 🗓 Day 12 – Java Keywords & Operators
+**(Date: 29-Dec-2025)**
+
+- Learned `this` keyword and constructor chaining.
+- Studied `static` variables, methods, and blocks.
+- Understood `final` keyword usage.
+- Learned `instanceof` operator for type checking.
+- Updated notes and committed work
+
+🔗 **Code Link:**  
+👉 [Day 12 – Java Keywords & Operators](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inbuiltfunction)
+
+---
