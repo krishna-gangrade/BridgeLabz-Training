@@ -60,3 +60,19 @@ BridgeLabz-Training/
 👉 [Day 12 – Java Keywords & Operators](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inbuiltfunction)
 
 ---
+### 🗓 Day 13 – Object Modeling & Real-World Design  
+**(Date: 30-Dec-2025)**
+- Studied classes and objects and object modeling:
+  - Class Diagram
+  - Object Diagrams
+  - Sequence Diagrams
+- Designed classes in Plain Old Java Object (POJO)
+- Learned object relationships:
+  - Association
+  - Aggregation
+  - Composition
+- Committed and pushed all work.
+- 🔗 **Code Link:**
+👉 [Day 13 - Object Modelling and Relations](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/objectmodelling)
+
+---
