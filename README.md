@@ -98,3 +98,22 @@ BridgeLabz-Training/
 👉 [Inheritance and Types](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inheritance)
 
 ---
+
+### 🗓 Day 15 – Java Encapsulation & Polymorphism
+**(Date: 01-Dec-2026)**
+- Studied Encapsulation & Polymorphism:
+  - Types of Polymorphism
+    - Compile-Time (Static) Polymorphism
+    - Runtime (Dynamic) Polymorphism
+  - Polymorphism with `interface`
+  - Polymorphism with `abstract` classes
+  - Casting and `instanceof` with Polymorphism
+- Practiced Abstract Classes & interfaces
+  - Abstract Class vs Interface
+  - Interface vs Class
+- Learned more about best practices. 
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Encapsulation & Polymorphism](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/encapsulation)
+
+---
