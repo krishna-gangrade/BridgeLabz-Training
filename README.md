@@ -17,6 +17,9 @@ Week 1 : Fundamentals of Java Programming
 🔹 java-oops-practice
 Week 2 : Object-Oriented Programming
 
+🔹 dsa-practice
+Week 3 : Data Structures and Algorithms
+
 ---
 📂 Project Structure
 ```
