@@ -3,25 +3,25 @@
 A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
 
 
-Training Overview 
+##Training Overview 
 
 This repository documents my learning journey at BridgeLabz, spanning from December 15, 2025 to present. The training is organized into structured branches covering different aspects of Java development.
 
 ---
 
-Repository Branches
+##Repository Branches
 
-🔹 core-java-practice
+###🔹 core-java-practice
 Week 1 : Fundamentals of Java Programming
 
-🔹 java-oops-practice
+###🔹 java-oops-practice
 Week 2 : Object-Oriented Programming
 
-🔹 dsa-practice
+###🔹 dsa-practice
 Week 3 : Data Structures and Algorithms
 
 ---
-📂 Project Structure
+##📂 Project Structure
 ```
 BridgeLabz-Training/
 │
@@ -38,18 +38,30 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
-    └── 📁 gcr-codebase/
-        └── 📁 JavaOopsConcepts/
-            └── 📁 src/
-                └── 📁 com/
-                    ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-                    └── 📁 constructor/       # Constructor, access modifiers
-                    └── 📁 finalandstatic/    # Keywords, instance vs class members
-                    └── 📁 objectmodeling/    # Diagrams, relationships, communication
-                    └── 📁 inheritance/       # Types, method overriding, & access modifiers
-                    └── 📁 encapsulation/     # Encapsulation concept, data hiding, getters & setters
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               └── 📁 constructor/       # Constructor, access modifiers
+│   │               └── 📁 inbuiltfunction/   # Keywords, instance vs class members
+│   │               └── 📁 objectmodelling/   # Diagrams, relationships, communication
+│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
+│   │               └── 📁 stackandqueues/     # Stack & Queue
+│   │               └── 📁 hashmap/            # HashMap + Hash Functions
+│   │               └── 📁 sorting/            # Sorting Algorithms
 ```
-Learning Milestones
+##Learning Milestones
+
 ## Week 1 : Core Java Programming
 
 | Day | Date   | Topic                          | Coverage                                     |
@@ -81,9 +93,9 @@ Learning Milestones
 | 15  | 02-Jan | LinkedList                      | Singly, Doubly and Circular Linked List               |
 
 ---
-Key Concepts Covered
+##Key Concepts Covered
 
- - Core Java (core-java-practice)
+ ### Core Java (core-java-practice)
  - Fundamentals: Variables, data types, operators
  - Control Structures: If-else, loops, switch-case
  - Arrays: Single & multi-dimensional arrays
@@ -92,7 +104,8 @@ Key Concepts Covered
  - Problem Solving: LeetCode challenges, real-world scenarios
  
  ---
-Object-Oriented Programming (java-oops-practice)
+ 
+### Object-Oriented Programming (java-oops-practice)
  - Classes & Objects: Creating and instantiating objects
  - Encapsulation: Data hiding and access modifiers
  - Constructors: Default, parameterized, overloading
@@ -100,12 +113,14 @@ Object-Oriented Programming (java-oops-practice)
  - Inheritance: Parent and Chlid relations
 
 ---
+
 ### Data Structures and Algorithms (`dsa-practice`)
 - **Linked Lists**: Singly, Doubly, Circular Linked Lists
 
 
-🔗 Quick Links
-## `core-java-practice`
+##🔗 Quick Links
+
+### `core-java-practice`
 
 - 📌 [Program Prerequisites](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 - 📌 [Control Flows](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
@@ -119,7 +134,7 @@ Object-Oriented Programming (java-oops-practice)
 
 ---
 
-## `java-oops-practice`
+### `java-oops-practice`
 
 - 📌 [Classes and Objects](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/classandobject)
 - 📌 [Constructors](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/constructors/level1)
@@ -130,15 +145,18 @@ Object-Oriented Programming (java-oops-practice)
 
 ---
 
-## `dsa-practice`
+### `dsa-practice`
 
 - 📌 [Linked List](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
  
 ---
-🎓 Learnings & Best Practices
----
+
+##🎓 Learnings & Best Practices
+
  - Code Organization: Following industrial standards
  - Naming Conventions: Camel case, Pascal case and meaningful names
  - Version Control: Regular commits with descriptive messages
  - Problem-Solving: Breaking complex problems into smaller tasks
  - Documentation: Clear comments and README files
+   
+---
