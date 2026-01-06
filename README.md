@@ -71,6 +71,12 @@ Learning Milestones
 | 13  | 31-Dec | Inheritance & Types             | Types, method overriding, & modifiers                 |
 | 14  | 01-Jan | Encapsulation                   | Encapsulation concept, data hiding, getters & setters |
 
+## Week 3 : Data Structures and Algorithms
+
+| Day | Date   | Topic                           | Coverage                                              |
+|----:|--------|---------------------------------|-------------------------------------------------------|
+| 15  | 02-Jan | LinkedList                      | Singly, Doubly and Circular Linked List               |
+
 ---
 Key Concepts Covered
 
@@ -91,8 +97,12 @@ Object-Oriented Programming (java-oops-practice)
  - Inheritance: Parent and Chlid relations
 
 ---
+### Data Structures and Algorithms (`dsa-practice`)
+- **Linked Lists**: Singly, Doubly, Circular Linked Lists
+
+
 🔗 Quick Links
-## core-java-practice
+## `core-java-practice`
 
 - 📌 [Program Prerequisites](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 - 📌 [Control Flows](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
@@ -106,7 +116,7 @@ Object-Oriented Programming (java-oops-practice)
 
 ---
 
-## java-oops-practice
+## `java-oops-practice`
 
 - 📌 [Classes and Objects](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/classandobject)
 - 📌 [Constructors](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/constructors/level1)
@@ -115,7 +125,11 @@ Object-Oriented Programming (java-oops-practice)
 - 📌 [Inheritance & Types](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inheritance) 
 - 📌 [Encapsulation](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/encapsulation)
 
- 
+---
+
+## `dsa-practice`
+
+- 📌 [Linked List](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
  
 ---
 🎓 Learnings & Best Practices
