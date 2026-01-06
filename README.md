@@ -3,13 +3,13 @@
 A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
 
 
-##Training Overview 
+## Training Overview 
 
 This repository documents my learning journey at BridgeLabz, spanning from December 15, 2025 to present. The training is organized into structured branches covering different aspects of Java development.
 
 ---
 
-##Repository Branches
+## Repository Branches
 
 ###🔹 core-java-practice
 Week 1 : Fundamentals of Java Programming
@@ -21,7 +21,7 @@ Week 2 : Object-Oriented Programming
 Week 3 : Data Structures and Algorithms
 
 ---
-##📂 Project Structure
+## 📂 Project Structure
 ```
 BridgeLabz-Training/
 │
@@ -60,7 +60,7 @@ BridgeLabz-Training/
 │   │               └── 📁 hashmap/            # HashMap + Hash Functions
 │   │               └── 📁 sorting/            # Sorting Algorithms
 ```
-##Learning Milestones
+## Learning Milestones
 
 ## Week 1 : Core Java Programming
 
@@ -91,10 +91,12 @@ BridgeLabz-Training/
 | Day | Date   | Topic                           | Coverage                                              |
 |----:|--------|---------------------------------|-------------------------------------------------------|
 | 15  | 02-Jan | LinkedList                      | Singly, Doubly and Circular Linked List               |
-|  16 | 03-Jan | Stack, Queues, HashMap          | Stacks, Queues and HashMap                            |
+| 16  | 03-Jan | Stack, Queues, HashMap          | Stacks, Queues and HashMap                            |
+| 17  | 05-Jan | Sorting                         | Sorting Algorithms                                    |
+
 
 ---
-##Key Concepts Covered
+## Key Concepts Covered
 
  ### Core Java (core-java-practice)
  - Fundamentals: Variables, data types, operators
@@ -120,9 +122,12 @@ BridgeLabz-Training/
 - **Stacks**: LIFO concept, basic stack operations
 - **Queues**: FIFO concept, queue operations and use cases
 - **HashMap**: Key-value storage and common operations
+- **Hash Functions**: `hashCode()`, collisions, and hashing basics
+- **Sorting**: Different sorting techniques.
+- **Problem Solving**: Stack, queue, and hashing-based problems
 
 
-##🔗 Quick Links
+## 🔗 Quick Links
 
 ### `core-java-practice`
 
@@ -152,10 +157,13 @@ BridgeLabz-Training/
 ### `dsa-practice`
 
 - 📌 [Linked List](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
- 
+- 📌 [Stack & Queue](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
+- 📌 [HashMap & Hash Functions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
+
+
 ---
 
-##🎓 Learnings & Best Practices
+## 🎓 Learnings & Best Practices
 
  - Code Organization: Following industrial standards
  - Naming Conventions: Camel case, Pascal case and meaningful names
