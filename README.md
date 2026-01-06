@@ -91,6 +91,7 @@ BridgeLabz-Training/
 | Day | Date   | Topic                           | Coverage                                              |
 |----:|--------|---------------------------------|-------------------------------------------------------|
 | 15  | 02-Jan | LinkedList                      | Singly, Doubly and Circular Linked List               |
+|  16 | 03-Jan | Stack, Queues, HashMap          | Stacks, Queues and HashMap                            |
 
 ---
 ##Key Concepts Covered
@@ -116,6 +117,9 @@ BridgeLabz-Training/
 
 ### Data Structures and Algorithms (`dsa-practice`)
 - **Linked Lists**: Singly, Doubly, Circular Linked Lists
+- **Stacks**: LIFO concept, basic stack operations
+- **Queues**: FIFO concept, queue operations and use cases
+- **HashMap**: Key-value storage and common operations
 
 
 ##🔗 Quick Links
