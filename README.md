@@ -159,6 +159,7 @@ BridgeLabz-Training/
 - 📌 [Linked List](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
 - 📌 [Stack & Queue](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
 - 📌 [HashMap & Hash Functions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
+- 📌 [Sorting](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 
 
 ---
