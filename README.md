@@ -59,6 +59,11 @@ BridgeLabz-Training/
 │   │               └── 📁 stackandqueues/     # Stack & Queue
 │   │               └── 📁 hashmap/            # HashMap + Hash Functions
 │   │               └── 📁 sorting/            # Sorting Algorithms
+│   │               └── 📁 searching/          # Searching Algorithms
+|   ├── 📁 leet-code-codebase/                 # LeetCode solutions
+│   └── 📁 scenario-based-codebase/            # Real-world problems
+└── README.md
+
 ```
 ## Learning Milestones
 
@@ -84,7 +89,7 @@ BridgeLabz-Training/
 | 11  | 29-Dec | this, final, static             | Keywords, instance vs class members                   |
 | 12  | 30-Dec | Object Modeling                 | Diagrams, relationships, communication                |
 | 13  | 31-Dec | Inheritance & Types             | Types, method overriding, & modifiers                 |
-| 14  | 01-Jan | Encapsulation                   | Encapsulation concept, data hiding, getters & setters |
+| 14  | 01-Jan | Encapsulation & Polymorphism    | Data hiding, polymorphism, interfaces                 |
 
 ## Week 3 : Data Structures and Algorithms
 
@@ -93,6 +98,7 @@ BridgeLabz-Training/
 | 15  | 02-Jan | LinkedList                      | Singly, Doubly and Circular Linked List               |
 | 16  | 03-Jan | Stack, Queues, HashMap          | Stacks, Queues and HashMap                            |
 | 17  | 05-Jan | Sorting                         | Sorting Algorithms                                    |
+| 18  | 06-Jan | Searching & I/O utilities       | Linear & Binary Search and FileReader                 |
 
 
 ---
@@ -114,6 +120,8 @@ BridgeLabz-Training/
  - Constructors: Default, parameterized, overloading
  - Abstraction: Interface-based design patterns
  - Inheritance: Parent and Chlid relations
+ - Polymorphism: Method overloading and method overriding
+ - Problem Solving: Real-World Scenarios
 
 ---
 
@@ -124,6 +132,9 @@ BridgeLabz-Training/
 - **HashMap**: Key-value storage and common operations
 - **Hash Functions**: `hashCode()`, collisions, and hashing basics
 - **Sorting**: Different sorting techniques.
+- **Searching**: Linear Search and Binary Search algorithms
+- **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
+- **File Handling**: Reading input using `FileReader` and `InputStreamReader`
 - **Problem Solving**: Stack, queue, and hashing-based problems
 
 
@@ -160,7 +171,7 @@ BridgeLabz-Training/
 - 📌 [Stack & Queue](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueues)
 - 📌 [HashMap & Hash Functions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
 - 📌 [Sorting](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
-
+- 📌 [Searching, String & I/O utilities](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
 
 ---
 
