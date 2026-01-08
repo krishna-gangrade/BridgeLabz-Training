@@ -120,7 +120,7 @@ BridgeLabz-Training/
 
 ## 🧩 Section B : Scenario-Based Problems Progress
 
-### 🗓 Day 16 – Scenario-Based Practice  
+### 🗓 Day 15 – Scenario-Based Practice  
 **(Date: 02-Jan-2026)**
 - Solved **5** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
@@ -130,12 +130,32 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 17 – Scenario-Based Practice  
+### 🗓 Day 16 – Scenario-Based Practice  
 **(Date: 03-Jan-2026)**
 - Solved **2** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day2)
+
+---
+
+### 🗓 Day 17 – Scenario-Based Practice  
+**(Date: 05-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day3)
+
+---
+
+### 🗓 Day 18 – Scenario-Based Practice  
+**(Date: 06-Jan-2026)**
+- Solved **4** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarios/src/com/day4)
 
 ---
