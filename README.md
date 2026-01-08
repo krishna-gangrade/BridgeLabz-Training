@@ -56,6 +56,29 @@ BridgeLabz-Training/
 👉 [HashMap and Hash Functions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmap)
 
 
+### 🗓 Day 17 – Sorting Algorithms
+**(Date: 05-Jan-2026)**
+
+- Studied the concept of sorting and its importance in data organization
+- Learned and understood the working of:
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort (Divide and Conquer)
+  - Quick Sort (Divide and Conquer)
+- Analyzed time and space complexity, stability, and use cases of each sorting algorithm
+- Understood comparison-based vs non-comparison-based sorting
+- Explored additional sorting algorithms:
+  - Selection Sort
+  - Heap Sort
+  - Counting Sort
+  - Radix Sort
+  - Bucket Sort
+- Implemented sorting algorithms in Java
+- Committed and pushed all work
+- 🔗 **Code Link:**  
+👉 [Sorting](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+
+
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
