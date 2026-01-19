@@ -25,10 +25,10 @@ public class ExamCellApp {
      // Added three test centers
      // each already sorted internally (by roll no or local rank)
      List<Score> centerIndore = Arrays.asList(
-         new Score("JH01A001", "Prashant Kumar Sharma",  489, "GARHWA-01"),
-         new Score("JH01A002", "Gautam Kumar",    412, "GARHWA-01"),
-         new Score("JH01A003", "Guatam Kumar",   378, "GARHWA-01"),
-         new Score("JH01A004", "Himanshu Kumar",   445, "GARHWA-01")
+         new Score("MP01A001", "Krishna Gangrade",489, "Khandwa-01"),
+         new Score("MP01A002", "Deepraj Singh", 412, "Khandwa-01"),
+         new Score("MP01A003", "Sachin Raghuwanshi", 378, "Khandwa-01"),
+         new Score("MP01A004", "Prateek Amrawanshi", 445, "Khandwa-01")
      );
 
      List<Score> centerBhopal = Arrays.asList(
