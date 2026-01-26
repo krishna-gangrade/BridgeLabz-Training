@@ -101,6 +101,8 @@ BridgeLabz-Training/
 | 17  | 05-Jan | Sorting                         | Sorting Algorithms                                    |
 | 18  | 06-Jan | Searching & I/O utilities       | Linear & Binary Search and FileReader                 |
 | 19  | 07-Jan | Runtime Analysis & Big-O        | Time & space complexity analysis                      |
+| 20  | 13-Jan | Trees & Binary Search Trees     | Basics, types and CRUD operations                     |
+
 
 ---
 ## Key Concepts Covered
@@ -137,6 +139,7 @@ BridgeLabz-Training/
 - **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
 - **File Handling**: Reading input using `FileReader` and `InputStreamReader`
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
+- **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
 - **Problem Solving**: Stack, queue, and hashing-based problems
 
 
@@ -175,6 +178,8 @@ BridgeLabz-Training/
 - 📌 [Sorting](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 - 📌 [Searching, String & I/O utilities](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
 - 📌 [Time & Space Complexity Analysis](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/runtimeanalysis)
+- 📌 [Scenario-Based Solutions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com)
+
 
 ---
 
