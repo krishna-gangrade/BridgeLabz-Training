@@ -70,7 +70,9 @@ BridgeLabz-Training/
 │   │           └── 📁 com/
 │   │               ├──📁 generics/            # Generic classes, methods, wildcards
 │   │               └──📁 streams/             # I/O streams, buffering, and serialization
-│   │               ├──📁 interfaces/          # Different Interfaces and their Implementations 
+│   │               ├──📁 interfaces/          # Different Interfaces and their Implementations
+│   │               ├──📁 Regex/               # Pattern matching, validations, groups
+│   │               ├──📁 JUnit/               # Unit testing, assertions
 |   |               └──📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
@@ -122,6 +124,7 @@ BridgeLabz-Training/
 | 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
 | 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
 | 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
+| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
 
 ---
 
@@ -174,6 +177,7 @@ BridgeLabz-Training/
 - **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`.
 - **Queue & Deque**: `PriorityQueue`, `ArrayDeque`.
 - **Hands-on Practice**: CRUD, iteration, ordering, and performance examples.
+- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
 
 ## 🔗 Quick Links
 
@@ -217,8 +221,10 @@ BridgeLabz-Training/
 ### `java-collections-practice` :  
 - 📌 [Generics](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
 - 📌 [List, Set, Queue & Map](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/interfaces)
-
-
+- 📌 [Exception Handling](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
+- 📌 [Regex](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/regex)
+- 📌 [JUnit](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
+- 
 ## 🎓 Learnings & Best Practices
 
  - Code Organization: Following industrial standards
