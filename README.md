@@ -63,6 +63,14 @@ BridgeLabz-Training/
 │   │               └── 📁 runtimeanalysis/    # Runtime Analysis & Big-O Notation
 |   ├── 📁 leet-code-codebase/                 # LeetCode solutions
 │   └── 📁 scenario-based-codebase/            # Real-world problems
+└── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 CollectionsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               └──📁 generics/            # Generic classes, methods, wildcards
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
 └── README.md
 
 ```
@@ -103,8 +111,14 @@ BridgeLabz-Training/
 | 19  | 07-Jan | Runtime Analysis & Big-O        | Time & space complexity analysis                      |
 | 20  | 13-Jan | Trees & Binary Search Trees     | Basics, types and CRUD operations                     |
 
+### **Week 4 : Collections Framework in Java**
 
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
 ---
+
+
 ## Key Concepts Covered
 
  ### Core Java (core-java-practice)
@@ -142,6 +156,10 @@ BridgeLabz-Training/
 - **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
 - **Problem Solving**: Stack, queue, and hashing-based problems
 
+---
+
+### Collections Framework in Java (`java-collections-practice`)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure.
 
 ## 🔗 Quick Links
 
