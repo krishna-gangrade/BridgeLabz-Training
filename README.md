@@ -70,6 +70,8 @@ BridgeLabz-Training/
 │   │           └── 📁 com/
 │   │               ├──📁 generics/            # Generic classes, methods, wildcards
 │   │               └──📁 streams/             # I/O streams, buffering, and serialization
+│   │               ├──📁 interfaces/          # Different Interfaces and their Implementations 
+|   |               └──📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 └── README.md
@@ -119,6 +121,7 @@ BridgeLabz-Training/
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
 | 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
 | 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
+| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
 
 ---
 
@@ -170,6 +173,7 @@ BridgeLabz-Training/
 - **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`.
 - **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`.
 - **Queue & Deque**: `PriorityQueue`, `ArrayDeque`.
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples.
 
 ## 🔗 Quick Links
 
@@ -212,6 +216,8 @@ BridgeLabz-Training/
 
 ### `java-collections-practice` :  
 - 📌 [Generics](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
+- 📌 [List, Set, Queue & Map](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/interfaces)
+
 
 ## 🎓 Learnings & Best Practices
 
