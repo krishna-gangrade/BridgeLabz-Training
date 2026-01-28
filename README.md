@@ -68,7 +68,8 @@ BridgeLabz-Training/
 │   │  └── 📁 CollectionsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               └──📁 generics/            # Generic classes, methods, wildcards
+│   │               ├──📁 generics/            # Generic classes, methods, wildcards
+│   │               └──📁 streams/             # I/O streams, buffering, and serialization
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 └── README.md
@@ -117,6 +118,7 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
 | 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
+| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
 
 ---
 
@@ -163,7 +165,11 @@ BridgeLabz-Training/
 ### Collections Framework in Java (`java-collections-practice`)
 - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure.
 - **Collections Overview**: Purpose and benefits of Java Collections Framework.
-
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`.
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`.
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`.
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`.
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`.
 
 ## 🔗 Quick Links
 
