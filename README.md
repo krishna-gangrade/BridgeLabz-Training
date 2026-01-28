@@ -116,6 +116,8 @@ BridgeLabz-Training/
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
+| 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
+
 ---
 
 
@@ -160,6 +162,8 @@ BridgeLabz-Training/
 
 ### Collections Framework in Java (`java-collections-practice`)
 - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure.
+- **Collections Overview**: Purpose and benefits of Java Collections Framework.
+
 
 ## 🔗 Quick Links
 
@@ -198,8 +202,10 @@ BridgeLabz-Training/
 - 📌 [Time & Space Complexity Analysis](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAConcepts/src/com/runtimeanalysis)
 - 📌 [Scenario-Based Solutions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DataStructureScenarios/src/com)
 
-
 ---
+
+### `java-collections-practice` :  
+- 📌 [Generics](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
 
 ## 🎓 Learnings & Best Practices
 
