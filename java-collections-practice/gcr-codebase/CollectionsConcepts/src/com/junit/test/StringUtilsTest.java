@@ -1,8 +1,10 @@
 
-package com.junit.stringutils;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.junit.stringutils.StringUtils;
 
 public class StringUtilsTest {
 

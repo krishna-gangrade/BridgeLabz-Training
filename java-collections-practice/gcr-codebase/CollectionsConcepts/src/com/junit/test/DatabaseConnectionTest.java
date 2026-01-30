@@ -1,8 +1,10 @@
 
-package com.junit.lifecycle;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
+
+import com.junit.lifecycle.DatabaseConnection;
 
 public class DatabaseConnectionTest {
 

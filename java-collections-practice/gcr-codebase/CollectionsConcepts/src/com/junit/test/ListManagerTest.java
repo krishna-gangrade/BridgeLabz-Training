@@ -1,8 +1,11 @@
 
-package com.junit.listmanager;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.junit.listmanager.ListManager;
+
 import java.util.*;
 
 public class ListManagerTest {

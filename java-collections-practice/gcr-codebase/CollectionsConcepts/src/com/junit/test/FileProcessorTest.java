@@ -1,8 +1,11 @@
 
-package com.junit.filehandling;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.junit.filehandling.FileProcessor;
+
 import java.io.IOException;
 
 public class FileProcessorTest {

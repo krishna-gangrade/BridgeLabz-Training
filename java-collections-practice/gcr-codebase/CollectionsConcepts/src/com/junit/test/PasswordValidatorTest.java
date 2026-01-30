@@ -1,8 +1,10 @@
 
-package com.junit.password;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.junit.password.PasswordValidator;
 
 public class PasswordValidatorTest {
 
