@@ -11,14 +11,23 @@ This repository documents my learning journey at BridgeLabz, spanning from Decem
 
 ## Repository Branches
 
-###🔹 core-java-practice
-Week 1 : Fundamentals of Java Programming
+### 🔹 [core-java-practice](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/core-java-practice)
+**Week 1** : Fundamentals of Java Programming
 
-###🔹 java-oops-practice
-Week 2 : Object-Oriented Programming
+### 🔹 [java-oops-practice](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-oops-practice)
+**Week 2** : Object-Oriented Programming
 
-###🔹 dsa-practice
-Week 3 : Data Structures and Algorithms
+### 🔹 [dsa-practice](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/dsa-practice)
+**Week 3** : Data Structures and Algorithms
+
+### 🔹 [java-collections-practice](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4** : Collections Framework in Java
+
+### 🔹 [java-iostreams-practice](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O Streams
+
+### 🔹 [java8-programming-practice](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6** : Java 8 Features
 
 ---
 ## 📂 Project Structure
@@ -27,57 +36,93 @@ BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
 │   ├── 📁 gcr-codebase/
-│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 program-prerequisites/  # Basic Java programs 
 │   │   ├── 📁 programming-elements/   # Java programming elements 
 │   │   ├── 📁 control-flows/          # If-else, loops, switch 
 │   │   ├── 📁 arrays/                 # Array operations
 │   │   ├── 📁 methods/                # Method practices
-│   │   ├── 📁 strings/                # String manipulation 
-│   │   └── 📁 Extras/                 # Built-in methods
+│   │   ├── 📁 string/                 # String manipulation 
+│   │   └── 📁 extras/                 # Built-in methods
 │   ├── 📁 leet-code-codebase/         # LeetCode solutions
-│   └── 📁 scenario-based-codebase/    # Real-world problems
+│   ├── 📁 scenario-based-codebase/    # Real-world problems
+│   └── README.md
 │
-└── 📁 java-oops-practice/
-│   └── 📁 gcr-codebase/
-│   │  └── 📁 JavaOopsConcepts/
-│   │       └── 📁 src/
-│   │           └── 📁 com/
-│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-│   │               └── 📁 constructor/       # Constructor, access modifiers
-│   │               └── 📁 inbuiltfunction/   # Keywords, instance vs class members
-│   │               └── 📁 objectmodelling/   # Diagrams, relationships, communication
-│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
-│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
-│   ├── 📁 leet-code-codebase/                # LeetCode solutions
-│   └── 📁 scenario-based-codebase/           # Real-world problems
-└── 📁 dsa-practice/
-│   └── 📁 gcr-codebase/
-│   │  └── 📁 DSAConcepts/
-│   │       └── 📁 src/
-│   │           └── 📁 com/
-│   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
-│   │               └── 📁 stackandqueues/     # Stack & Queue
-│   │               └── 📁 hashmap/            # HashMap + Hash Functions
-│   │               └── 📁 sorting/            # Sorting Algorithms
-│   │               └── 📁 searching/          # Searching Algorithms
-│   │               └── 📁 runtimeanalysis/    # Runtime Analysis & Big-O Notation
-|   ├── 📁 leet-code-codebase/                 # LeetCode solutions
-│   └── 📁 scenario-based-codebase/            # Real-world problems
-└── 📁 java-collections-practice/
-│   ├── 📁 gcr-codebase/
-│   │  └── 📁 CollectionsConcepts/
-│   │       └── 📁 src/
-│   │           └── 📁 com/
-│   │               ├──📁 Annotation/          # Built-in & custom annotations
-│   │               ├──📁 generics/            # Generic classes, methods, wildcards
-│   │               └──📁 streams/             # I/O streams, buffering, and serialization
-│   │               ├──📁 interfaces/          # Different Interfaces and their Implementations
-│   │               ├──📁 Regex/               # Pattern matching, validations, groups
-│   │               ├──📁 JUnit/               # Unit testing, assertions
-│   │               ├──📁 Reflection/          # Runtime inspection, proxies
-|   |               └──📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
+├── 📁 java-oops-practice/
+│   └── 📁 java-oops-practice/
+│       ├── 📁 gcr-codebase/
+│       │   └── 📁 JavaOopsConcepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│       │               ├── 📁 constructor/       # Constructor, access modifiers
+│       │               ├── 📁 inbuiltfunction/   # Keywords, instance vs class members
+│       │               ├── 📁 objectmodelling/   # Diagrams, relationships, communication
+│       │               ├── 📁 inheritance/       # Types, method overriding, & access modifiers
+│       │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│       ├── 📁 leet-code-codebase/                # LeetCode solutions
+│       ├── 📁 scenario-based-codebase/           # Real-world problems
+│       └── README.md
+│
+├── 📁 dsa-practice/
+│   └── 📁 dsa-practice/
+│       ├── 📁 gcr-codebase/
+│       │   └── 📁 DSAConcepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
+│       │               ├── 📁 stackandqueues/     # Stack & Queue
+│       │               ├── 📁 hashmap/            # HashMap + Hash Functions
+│       │               ├── 📁 sorting/            # Sorting Algorithms
+│       │               ├── 📁 searching/          # Searching Algorithms
+│       │               └── 📁 runtimeanalysis/    # Runtime Analysis & Big-O Notation
+│       ├── 📁 leet-code-codebase/                 # LeetCode solutions
+│       ├── 📁 scenario-based-codebase/            # Real-world problems
+│       └── README.md
+│
+├── 📁 java-collections-practice/
+│   └── 📁 java-collections-practice/
+│       ├── 📁 gcr-codebase/
+│       │   └── 📁 CollectionsConcepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 generics/            # Generic classes, methods, wildcards
+│       │               ├── 📁 interfaces/          # Different Interfaces and their Implementations 
+│       │               ├── 📁 streams/             # I/O streams, buffering, and serialization
+│       │               ├── 📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
+│       │               ├── 📁 regex/               # Pattern matching, validation rules, groups & quantifiers
+│       │               ├── 📁 junit/               # Unit testing, assertions, test lifecycle, test cases
+│       │               ├── 📁 reflection/          # Runtime inspection, dynamic invocation, proxies
+│       │               └── 📁 annotations/         # Built-in & custom annotations, processors
+│       ├── 📁 leet-code-codebase/
+│       ├── 📁 scenario-based-codebase/
+│       └── README.md
+│
+├── 📁 java-iostreams-practice/
+│   └── 📁 java-iostreams-practice/
+│       ├── 📁 gcr-codebase/
+│       │   └── 📁 IOStreamsConcepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+│       │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+│       ├── 📁 leet-code-codebase/
+│       ├── 📁 scenario-based-codebase/
+│       └── README.md
+|
+├── 📁 java8-programming-practice/
+│   └── 📁 java8-programming-practice/
+│       ├── 📁 gcr-codebase/
+│       │   └── 📁 Java8Concepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
+│       │               ├── 📁 methodreferences/  # Static, instance, constructor references
+│       │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│       │
+│       ├── 📁 leet-code-codebase/                # LeetCode solutions
+│       ├── 📁 scenario-based-codebase/           # Real-world problems
+│       └── README.md
+|
 └── README.md
 
 ```
