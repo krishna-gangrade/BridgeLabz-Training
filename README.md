@@ -174,6 +174,10 @@ BridgeLabz-Training/
 | 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
 | 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
 
+### **Week 5 : Java I/O Streams**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
 ---
 
 
@@ -228,6 +232,11 @@ BridgeLabz-Training/
 - **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
 
+---
+
+### Java I/O Streams (java-iostreams-practice)
+- **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
+
 ## 🔗 Quick Links
 
 ### `core-java-practice`
@@ -275,7 +284,10 @@ BridgeLabz-Training/
 - 📌 [JUnit](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
 - 📌 [Annotations](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/annotations)
 - 📌 [Reflection](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/reflection)
-  
+
+### `java-iostreams-practice` :
+- 📌 [CSV Data Handling](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+
 ## 🎓 Learnings & Best Practices
 
  - Code Organization: Following industrial standards
