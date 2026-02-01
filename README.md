@@ -180,6 +180,11 @@ BridgeLabz-Training/
 | 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
 | 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
 
+### **Week 6 : Java 8 Features**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
+
 ---
 
 
@@ -240,6 +245,12 @@ BridgeLabz-Training/
 - **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
 - **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 
+### Java 8 Features (java8-programming-practice)
+- **Lambda Expressions**: Functional programming syntax and usage
+- **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
+- **Method References**: Static, instance, and constructor references
+- **Interface Enhancements**: Default and static methods
+
 ## 🔗 Quick Links
 
 ### `core-java-practice`
@@ -291,6 +302,11 @@ BridgeLabz-Training/
 ### `java-iostreams-practice` :
 - 📌 [CSV Data Handling](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
 - 📌 [JSON Data Handling](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+
+### `java8-programming-practice` :
+- 📌 [Lambda Expressions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas)
+- 📌 [Method References](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
+- 📌 [Functional Interfaces](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/functionalinterfaces)
 
 ## 🎓 Learnings & Best Practices
 
