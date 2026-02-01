@@ -181,6 +181,15 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based-codebase/CollectionScenario/src/com/day2)
 
+### 🗓 Day 30 – Scenario-Based Practice  
+**(Date: 27-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based-codebase/CollectionScenario/src/com/day3)
+
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 
