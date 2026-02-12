@@ -1,0 +1,93 @@
+
+-- ============================================================
+-- Problem: Exercise 1 - Simple CRUD Application
+-- File: employee.db
+-- Table: employee
+-- Database: practice_db
+-- ============================================================
+
+<mysql>
+USE practice_db;
+
+/* o/p
+Database changed
+*/
+ CREATE TABLE Employee(
+ 	Emp_Id INT AUTO_INCREMENT PRIMARY KEY,
+ 	Emp_Name VARCHAR(30) NOT NULL, 
+ 	Department VARCHAR(30) NOT NULL,
+ 	Emp_Salary DECIMAL(10,2)
+ );
+ 
+ 
+//Add Employee
+
+ INSERT INTO Employee (Emp_Name, Department, Emp_Salary) 
+VALUES ('Rohit Sharma', 'HR', 10000),
+       ('Amit Verma', 'IT', 40000), 
+       ('Neha Gupta', 'Marketing', 35000);
+
+
+
+//View all employees
+
+SELECT * FROM Employee;
+
+/*OUTPUT
+
++--------+--------------+------------+------------+
+| Emp_Id | Emp_Name     | Department | Emp_Salary |
++--------+--------------+------------+------------+
+|      1 | Rohit Sharma | HR         |   10000.00 |
+|      2 | Amit Verma   | IT         |   40000.00 |
+|      3 | Neha Gupta   | Marketing  |   35000.00 |
++--------+--------------+------------+------------+
+*/
+
+//Update employee salary
+
+ UPDATE Employee
+ SET Emp_Salary = 20000 
+ WHERE Emp_Name = 'Neha Gupta';
+
+SELECT * FROM Employee;
+
+/*OUTPUT
+
++--------+--------------+------------+------------+
+| Emp_Id | Emp_Name     | Department | Emp_Salary |
++--------+--------------+------------+------------+
+|      1 | Rohit Sharma | HR         |   10000.00 |
+|      2 | Amit Verma   | IT         |   40000.00 |
+|      3 | Neha Gupta   | Marketing  |   20000.00 |
++--------+--------------+------------+------------+
+*/
+
+//Delete employee
+
+DELETE FROM Employee
+WHERE Emp_Name = 'Amit Verma';	 
+
+SELECT * FROM Employee;
+
+/* OUTPUT
++--------+--------------+------------+------------+
+| Emp_Id | Emp_Name     | Department | Emp_Salary |
++--------+--------------+------------+------------+
+|      1 | Rohit Sharma | HR         |   10000.00 |
+|      3 | Neha Gupta   | Marketing  |   20000.00 |
++--------+--------------+------------+------------+
+*/
+
+//Search employee by name
+SELECT * 
+FROM Employee
+WHERE Emp_Name = 'Rohit Sharma';
+
+/* OUTPUT
++--------+--------------+------------+------------+
+| Emp_Id | Emp_Name     | Department | Emp_Salary |
++--------+--------------+------------+------------+
+|      1 | Rohit Sharma | HR         |   10000.00 |
++--------+--------------+------------+------------+
+*/
