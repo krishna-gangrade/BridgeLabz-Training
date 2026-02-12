@@ -1,0 +1,139 @@
+-- ============================================================
+-- Problem: Exercise 2 - Transaction Management (Banking System)
+-- File: account.db
+-- Table: account, transaction_history
+-- Database: practice_db
+-- ============================================================
+
+<mysql>
+USE practice_db;
+
+/* o/p
+Database changed
+*/
+
+<mysql>
+CREATE TABLE accounts (
+    account_id INT PRIMARY KEY AUTO_INCREMENT,
+    account_holder VARCHAR(100),
+    balance DECIMAL(10,2) NOT NULL
+);
+/* o/p
+Query OK, 0 rows affected (0.05 sec)
+*/
+
+
+<mysql> 
+CREATE TABLE transactions (
+    transaction_id INT PRIMARY KEY AUTO_INCREMENT,
+    from_account INT,
+    to_account INT,
+    amount DECIMAL(10,2),
+    transaction_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+/* o/p
+Query OK, 0 rows affected (0.05 sec)
+*/
+
+
+<mysql>
+INSERT INTO accounts (account_holder, balance)
+VALUES
+('Aryan', 5000.00),
+('Yash', 3000.00);
+
+/* o/p
+Query OK, 2 rows affected (0.02 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+*/
+
+
+<mysql>
+SELECT * FROM accounts;
+
+/* o/p
++------------+----------------+---------+
+| account_id | account_holder | balance |
++------------+----------------+---------+
+|          1 | Aryan          | 5000.00 |
+|          2 | Yash           | 3000.00 |
++------------+----------------+---------+
+2 rows in set (0.00 sec)
+*/
+
+//Transfer Money Between Accounts
+
+<mysql>
+START TRANSACTION;
+
+/* o/p
+Query OK, 0 rows affected (0.00 sec)
+*/
+
+
+<mysql>
+UPDATE accounts
+SET balance = balance - 1000
+WHERE account_id = 1;
+
+/* o/p
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+*/
+
+
+<mysql>
+UPDATE accounts
+SET balance = balance + 1000
+WHERE account_id = 2;
+
+/* o/p
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+*/
+
+
+<mysql>
+INSERT INTO transactions (from_account, to_account, amount)
+VALUES (1, 2, 1000);
+
+/* o/p
+Query OK, 1 row affected (0.00 sec)
+*/
+
+
+<mysql>
+COMMIT;
+
+/* o/p
+Query OK, 1 row affected (0.00 sec)
+*/
+
+
+//View Transaction History
+<mysql>
+SELECT * FROM transactions;
+
+/* o/p
++----------------+--------------+------------+---------+---------------------+
+| transaction_id | from_account | to_account | amount  | transaction_date    |
++----------------+--------------+------------+---------+---------------------+
+|              1 |            1 |          2 | 1000.00 | 2026-02-09 11:55:10 |
++----------------+--------------+------------+---------+---------------------+
+1 row in set (0.00 sec)
+*/
+
+//Balance Check
+<mysql>
+SELECT account_holder, balance FROM accounts;
+
+/*o/p
++----------------+---------+
+| account_holder | balance |
++----------------+---------+
+| Aryan          | 4000.00 |
+| Yash           | 4000.00 |
++----------------+---------+
+2 rows in set (0.00 sec)
+*/
