@@ -29,6 +29,9 @@ This repository documents my learning journey at BridgeLabz, spanning from Decem
 ### 🔹 [java8-programming-practice](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/java8-programming-practice)
 **Week 6** : Java 8 Features
 
+### 🔹 [java-design-pattern-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week 7** : Java Design Principles & Design Patterns
+
 ---
 ## 📂 Project Structure
 ```
@@ -118,7 +121,23 @@ BridgeLabz-Training/
 │       │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
 │       │               ├── 📁 methodreferences/  # Static, instance, constructor references
 │       │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│       │               └── 📁 streams/           # Stream API, intermediate & terminal operations
+│       │               └── 📁 collectors/        # Grouping, partitioning, summarizing collectors
+│       │               └── 📁 workshop/          # Mini projects & real-world stream problems
 │       │
+│       ├── 📁 leet-code-codebase/                # LeetCode solutions
+│       ├── 📁 scenario-based-codebase/           # Real-world problems
+│       └── README.md
+|
+├── 📁 java-design-pattern-practice/
+|   └── 📁 java-design-pattern-practice/
+│       ├── 📁 gcr-codebase/
+│       |   └── 📁 DesignConcepts/
+│       │       └── 📁 src/
+│       │           └── 📁 com/
+│       │               ├── 📁 designprinciples/  # SOLID principles and design patterns
+│       │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples 
+|       |
 │       ├── 📁 leet-code-codebase/                # LeetCode solutions
 │       ├── 📁 scenario-based-codebase/           # Real-world problems
 │       └── README.md
