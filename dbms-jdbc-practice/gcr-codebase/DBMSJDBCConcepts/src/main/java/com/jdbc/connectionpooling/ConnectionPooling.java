@@ -5,7 +5,7 @@ import com.zaxxer.hikari.HikariDataSource;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-public class ConnectionPool {
+public class ConnectionPooling {
 	private static HikariDataSource dataSource;
 
 	static {
