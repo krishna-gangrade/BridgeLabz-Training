@@ -8,7 +8,7 @@ public class DatabaseConfig {
 // Connection properties
 		java.util.Properties properties = new java.util.Properties();
 		properties.setProperty("user", "root");
-		properties.setProperty("password", "root");
+		properties.setProperty("password", "2003");
 		properties.setProperty("useSSL", "false");
 		properties.setProperty("serverTimezone", "UTC");
 		properties.setProperty("allowPublicKeyRetrieval", "true");
