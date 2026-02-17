@@ -8,7 +8,7 @@ public class DatabaseConnection {
 
 	private static final String URL = "jdbc:mysql://localhost:3306/mydb";
 	private static final String USER = "root";
-	private static final String PASSWORD = "root";
+	private static final String PASSWORD = "2003";
 
 	public static Connection getConnection() {
 		Connection connection = null;
