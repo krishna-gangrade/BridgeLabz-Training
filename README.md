@@ -104,3 +104,102 @@ Generated all substrings, normalized them by sorting, stored frequencies using a
 - **Platform:** HackerRank
 
 👉 [Day 1 - HackerRank Solutions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/Refresher-Training/Refresher-Training/src/Day_01/HackerRank-based-codebase)
+
+# 📅 Day 2 – Stacks, Queues & Problem Solving
+
+## 📚 Topics Learned
+
+### 🔹 Stack (LIFO - Last In, First Out)
+Covered the core concepts of the Stack data structure, including:
+- Understanding the LIFO principle
+- Push operation
+- Pop operation
+- Peek/Top operation
+- Stack implementation using Arrays
+- Stack implementation using Linked Lists
+
+### 🔹 Queue (FIFO - First In, First Out)
+Explored the Queue data structure along with its basic operations:
+- FIFO principle
+- Enqueue operation
+- Dequeue operation
+- Front/Peek operation
+- Queue implementation
+- Circular Queue and its working
+
+### 🔹 Practical Applications
+Learned how Stacks and Queues are used in real-world scenarios:
+- Undo and Redo functionality
+- Browser Back and Forward navigation
+- Function Call Stack
+- Backtracking techniques
+- Task Scheduling
+- Breadth First Search (BFS)
+
+### 🔹 Problem Solving Concepts
+Practiced implementing:
+- Balanced Parentheses Checker
+- Queue using Two Stacks
+- Maximum Element in a Stack
+- Stack-based Undo functionality
+- Circular Queue
+- Basics of Infix to Postfix Conversion
+
+---
+
+# 💻 HackerRank Problems Solved
+
+| # | Problem | Difficulty | Concepts Used |
+|---|---------|------------|---------------|
+| 01 | Maximum Element | Easy | Stack, Auxiliary Stack, Maximum Tracking |
+| 02 | Equal Stacks | Easy | Stack, Prefix Sum, Greedy |
+| 03 | Simple Text Editor | Medium | Stack, String Manipulation, Undo Operation |
+| 04 | Balanced Brackets | Medium | Stack, Parentheses Matching |
+| 05 | Queue using Two Stacks | Easy-Medium | Queue Implementation, Two Stacks |
+| 06 | Truck Tour | Medium | Queue, Circular Traversal, Greedy |
+
+---
+
+## 📖 Problem Overview
+
+### ✅ Maximum Element
+Designed a stack that supports **push**, **pop**, and retrieving the **maximum element** in constant time by maintaining an auxiliary stack.
+
+### ✅ Equal Stacks
+Solved the problem of making three stacks equal in height by removing cylinders from the top using a greedy strategy.
+
+### ✅ Simple Text Editor
+Implemented a text editor capable of **append**, **delete**, **print**, and **undo** operations by storing previous states in a stack.
+
+### ✅ Balanced Brackets
+Checked whether a bracket sequence is balanced by using a stack to correctly match opening and closing brackets.
+
+### ✅ Queue using Two Stacks
+Built a queue using two stacks while preserving FIFO behavior for enqueue, dequeue, and front operations.
+
+### ✅ Truck Tour
+Determined the correct petrol pump index from which the truck can complete the circular route using a greedy approach.
+
+---
+
+## 🎯 Key Takeaways
+
+- Gained a solid understanding of Stack and Queue data structures.
+- Clearly understood the difference between LIFO and FIFO concepts.
+- Learned where Stacks and Queues are commonly used in real-world applications.
+- Implemented both data structures from scratch.
+- Applied Stack concepts to problems like undo operations and balanced brackets.
+- Learned how two stacks can be combined to simulate queue behavior efficiently.
+- Improved problem-solving skills through greedy algorithms and circular traversal problems.
+- Strengthened DSA fundamentals by solving multiple HackerRank challenges.
+
+---
+
+## 🚀 Progress
+
+- **Topics Covered:** Stacks, Queues, Circular Queue, Stack Applications
+- **Problems Solved:** **6**
+- **Language:** Java
+- **Platform:** HackerRank
+
+👉 [Day 1 - HackerRank Solutions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/Refresher-Training/Refresher-Training/src/Day_02/HackerRank_based_codebase)
