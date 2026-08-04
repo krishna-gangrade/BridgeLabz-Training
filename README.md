@@ -202,4 +202,4 @@ Determined the correct petrol pump index from which the truck can complete the c
 - **Language:** Java
 - **Platform:** HackerRank
 
-👉 [Day 1 - HackerRank Solutions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/Refresher-Training/Refresher-Training/src/Day_02/HackerRank_based_codebase)
+👉 [Day 2 - HackerRank Solutions](https://github.com/krishna-gangrade/BridgeLabz-Training/tree/Refresher-Training/Refresher-Training/src/Day_02/HackerRank_based_codebase)
