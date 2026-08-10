@@ -1,4 +1,4 @@
-package Day_07.HackerRank_based_codebase.Recursion;
+package Day_07.HackerRank_based_codebase.RecursionFactorial;
 
 import java.io.*;
 
