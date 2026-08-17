@@ -17,5 +17,5 @@ public class Address {
         this.city= other.city;
         this.zipCode= other.zipCode;
     }
-
+    
 }
